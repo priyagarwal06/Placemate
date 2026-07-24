@@ -1,0 +1,2 @@
+priya@123gmail.com,Accenture,Software Engineer,Rejected
+priya@123gmail.com,PwC,Business Analyst,Pending

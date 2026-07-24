@@ -1,0 +1,34 @@
+Accenture,Business Analyst,ALL,6.5,10,Approved
+Accenture,Data Analyst,ALL,6.5,11,Approved
+
+IBM,Software Engineer,ALL,6.5,12,Approved
+IBM,Data Analyst,ALL,6.5,10,Approved
+IBM,Business Analyst,ALL,6.5,11,Approved
+
+XiaomiTechnology,Software Engineer,CSE|IT|CS AI|ECE,6.5,12,Approved
+XiaomiTechnology,Design Engineer,CSE|IT|CS AI|ECE,6.5,10,Approved
+XiaomiTechnology,Data Analyst,CSE|IT|CS AI|ECE,6.5,11,Approved
+XiaomiTechnology,Network Engineer,CSE|IT|CS AI|ECE,6.5,12,Approved
+
+PwC,Business Analyst,ALL,6.5,10,Approved
+PwC,Data Analyst,ALL,6.5,11,Approved
+PwC,Production Engineer,ALL,6.5,9,Approved
+
+Deloitte,Business Analyst,ALL,6.5,10,Approved
+Deloitte,Software Engineer,ALL,6.5,12,Approved
+
+JPMorganChase,Data Analyst,CSE|IT|CS AI,8.0,15,Approved
+JPMorganChase,Software Engineer,CSE|IT|CS AI,8.0,15,Approved
+
+SonyIndia,Design Engineer,ECE|VLSI|EE|CSE|IT|CS AI,6.5,10,Approved
+SonyIndia,Production Engineer,ECE|VLSI|EE|CSE|IT|CS AI,6.5,9,Approved
+SonyIndia,Business Analyst,ECE|VLSI|EE|CSE|IT|CS AI,6.5,10,Approved
+Deolitte,Business Analyst ,IT,9,8,Approved
+IBM,Design Engineer,ALL,7,8,Approved
+JkTyres,Peon,CSE|IT|CS-AI,9,1,Approved
+JkTyres,Software Engineer,IT|ECE,6,3,Approved
+IBM,designer,ALL,7,6,Approved
+Deolitte,design engineer,CSE|IT,7,8,Approved
+Accenture,Network Engineer,ALL,7,6,Approved
+XiaomiTechnology,Graphic Designer,IT|CSE,8,12,Approved
+Accenture,Software Engineer,ALL,7.5,12,Approved
